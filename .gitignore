@@ -1,0 +1,14 @@
+XCode
+/Temp
+Library
+*.csproj
+*.sln
+*.user
+*.DS_Store
+Logs
+.idea
+*.DotSettings
+IgnoreGit
+obj/
+.vs/
+*~*
